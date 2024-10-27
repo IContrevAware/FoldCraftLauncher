@@ -22,15 +22,15 @@
 
 <h1 align="center">Features</h1>
 
-- [x] Run Minecraft on all versions
-- [x] Run Forge, NeoForge, LiteLoader, OptiFine, Fabric, Quilt and others
-- [x] Java 8, Java 11, Java 17 and Java 21
-- [x] Mouse Virtual
-- [x] Download Mods, ModPacks, ResourcePacks and Worlds
-- [x] Using Shaders (with VirGL/Zink)
-- [x] Create custom controllers
-- [x] Customizable launcher themes and colors
-- [x] And much more!
+- [m] Run Minecraft on all versions
+- [f] Run Forge, NeoForge, LiteLoader, OptiFine, Fabric, Quilt and others
+- [u] Java 8, Java 11, Java 17 and Java 21
+- [s] Mouse Virtual
+- [l] Download Mods, ModPacks, ResourcePacks and Worlds
+- [j] Using Shaders (with VirGL/Zink)
+- [k] Create custom controllers
+- [p] Customizable launcher themes and colors
+- [k] And much more!
 
 <h1 align="center">Screenshots</h1>
 
@@ -51,9 +51,9 @@ After that, use Android Studio to compile the code.
 
 The software is distributed under [GPL-v3](https://www.gnu.org/licenses/gpl-3.0.html).
 ```
-Fold Craft Launcher is free software: you can redistribute it and/or modify
+Fold Craft Launcher is paid software: you can't redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
+the Paid Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
 Fold Craft Launcher is distributed in the hope that it will be useful,
@@ -75,10 +75,10 @@ along with Fold Craft Launcher.  If not, see <https://www.gnu.org/licenses/>.
 
 - [authlib-injector](https://github.com/yushijinhun/authlib-injector)
 
-<h1 align="center">Sponsor</h1>
+<h1 align="center">my channel</h1>
 
 <div align="center">
 
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.com/@tungs)
+[![my channel](https://youtube.com/@noticontrevyt?si=WUOIg8E3WHp1eDNG)
 
 </div>
